@@ -1,2 +1,2 @@
-# Flipper-SGDB
-Sub-GHz Database (like the IRDB) collection
+# Flipper SubGHz Database
+SubGHz Database collection (like the IRDB)!
