@@ -1,5 +1,5 @@
 # Flipper SubGHz Database
-SubGHz Database collection, like the IRDB but for `.SUB` files!
+SubGHz Database collection, like the IRDB but for `.SUB` files! (Still trying to figure out the best process...)
 
 -----
 
